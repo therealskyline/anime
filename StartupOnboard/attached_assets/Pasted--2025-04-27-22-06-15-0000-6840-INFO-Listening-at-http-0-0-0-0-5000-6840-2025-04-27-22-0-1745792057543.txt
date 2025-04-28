@@ -1,0 +1,37 @@
+[2025-04-27 22:06:15 +0000] [6840] [INFO] Listening at: http://0.0.0.0:5000 (6840)
+[2025-04-27 22:06:15 +0000] [6840] [INFO] Using worker: sync
+[2025-04-27 22:06:15 +0000] [6852] [INFO] Booting worker with pid: 6852
+INFO:app:Database tables created successfully!
+[2025-04-27 22:06:16 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:19 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:19 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:19 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:19 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:23 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:25 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:25 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:26 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:26 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:26 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:27 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:27 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:27 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:28 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:29 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:29 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:30 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:30 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:30 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:30 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:30 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:31 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:31 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:31 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:31 +0000] [6840] [INFO] Handling signal: winch
+[2025-04-27 22:06:31 +0000] [6840] [INFO] Handling signal: winch
